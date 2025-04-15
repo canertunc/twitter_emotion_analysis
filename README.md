@@ -1,2 +1,2 @@
 # IdaMobile-AI-Challenge
-Tüm çalışma twitter_emotion_analysis.ipynb dosyasında gerçekleştirilmiştir. Projenin adımları ve detaylı yorumlama ise report.pdf dosyasında açıklanmıştır.
+The entire work has been carried out in the twitter_emotion_analysis.ipynb file. The steps of the project and detailed explanations are provided in the report.pdf file.
