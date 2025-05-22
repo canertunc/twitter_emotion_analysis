@@ -154,3 +154,7 @@ The entire project is contained in a single Jupyter notebook (twitter_emotion_an
 ## 📑 Detailed Report
 
 For a more comprehensive analysis and detailed discussion of methods, results, and conclusions, please refer to the `report.pdf` file available in this GitHub repository. 
+
+## 🏆 About This Project
+
+This project was created as a pre-internship task assigned by IdaMobile company. It was developed as part of the application process for a volunteer internship position and demonstrates a complete machine learning solution for emotion analysis on Twitter data. 
